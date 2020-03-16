@@ -1,0 +1,10 @@
+[[ppl]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "47602959c0a2493edbd072fe85573ab682429353"
+libc = "glibc"
+os = "linux"
+
+    [[ppl.download]]
+    sha256 = "4686c2fe5e2374a2bac2f029e482bbb9f3aa85724865bebc3c75317f871a942f"
+    url = "https://github.com/benlorenz/ppl_jll.jl/releases/download/ppl-v1.2.0+0/ppl.v1.2.0.powerpc64le-linux-gnu-cxx03.tar.gz"
