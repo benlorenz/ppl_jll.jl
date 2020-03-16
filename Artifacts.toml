@@ -1,0 +1,252 @@
+[[ppl]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "98b419eae1c9c83f27860fb52fc35b45300ead14"
+libc = "musl"
+os = "linux"
+
+    [[ppl.download]]
+    sha256 = "92ae6f9f76d79a68df66fcf436c5d6cf26ecf4768086ac4c3ad71048f6a72ced"
+    url = "https://github.com/benlorenz/ppl_jll.jl/releases/download/ppl-v1.2.0+0/ppl.v1.2.0.i686-linux-musl-cxx03.tar.gz"
+[[ppl]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "1bd4ab089f6798681370eaf0909045474412e338"
+libc = "glibc"
+os = "linux"
+
+    [[ppl.download]]
+    sha256 = "a46680175e35321a102afaa093aa73cda50502fe87b51fd13a7eed3d96785793"
+    url = "https://github.com/benlorenz/ppl_jll.jl/releases/download/ppl-v1.2.0+0/ppl.v1.2.0.powerpc64le-linux-gnu-cxx11.tar.gz"
+[[ppl]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "8c018be74d40d21159fcf3b6cbbaeaddd77e111a"
+libc = "musl"
+os = "linux"
+
+    [[ppl.download]]
+    sha256 = "bc8d6e4c42730ddbb439e9d2a2aeda13808903ba64c07c0e14daa277a6b666d1"
+    url = "https://github.com/benlorenz/ppl_jll.jl/releases/download/ppl-v1.2.0+0/ppl.v1.2.0.i686-linux-musl-cxx11.tar.gz"
+[[ppl]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "036456c7f2707ab6b1275bd2153b9859ab440a59"
+libc = "musl"
+os = "linux"
+
+    [[ppl.download]]
+    sha256 = "7cd075becdef3f7035bc7aee34c947edb3c11e32be99b16a6b622826c5c79b9e"
+    url = "https://github.com/benlorenz/ppl_jll.jl/releases/download/ppl-v1.2.0+0/ppl.v1.2.0.x86_64-linux-musl-cxx11.tar.gz"
+[[ppl]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "675286e9764aa0f4c85afb5587b09e41d4a8d2f6"
+libc = "glibc"
+os = "linux"
+
+    [[ppl.download]]
+    sha256 = "bc18de84c233d9295dc35e3fe5e2473d96ba984921a435c1857aabc99b86cf38"
+    url = "https://github.com/benlorenz/ppl_jll.jl/releases/download/ppl-v1.2.0+0/ppl.v1.2.0.x86_64-linux-gnu-cxx11.tar.gz"
+[[ppl]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "0e07020db82106e55529cdb6c563bd3d3058fa1a"
+os = "macos"
+
+    [[ppl.download]]
+    sha256 = "afb507b5a2a8d36258129a2835bd27f9c81c200021ca282aa2d5f2ac3671b06d"
+    url = "https://github.com/benlorenz/ppl_jll.jl/releases/download/ppl-v1.2.0+0/ppl.v1.2.0.x86_64-apple-darwin14-cxx03.tar.gz"
+[[ppl]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "a551a312907cf7c96cea875e8f2009330193ce6d"
+os = "freebsd"
+
+    [[ppl.download]]
+    sha256 = "0f7c16f8103a99d5d44dab37d9ecf3f829cd4c850b5725d3a18e3261a0fb09a9"
+    url = "https://github.com/benlorenz/ppl_jll.jl/releases/download/ppl-v1.2.0+0/ppl.v1.2.0.x86_64-unknown-freebsd11.1-cxx03.tar.gz"
+[[ppl]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "b8a2b4f6756f4666b5791e40858d0aabdb6e4d29"
+libc = "glibc"
+os = "linux"
+
+    [[ppl.download]]
+    sha256 = "ef211d7cf9f9e02507a5a940e7a6c107b2f015bfe9be61cc3291713f9baecf9c"
+    url = "https://github.com/benlorenz/ppl_jll.jl/releases/download/ppl-v1.2.0+0/ppl.v1.2.0.x86_64-linux-gnu-cxx03.tar.gz"
+[[ppl]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "3156571d9624500b9cda5bf8c4b5d1e8cd107874"
+libc = "glibc"
+os = "linux"
+
+    [[ppl.download]]
+    sha256 = "d8f232bb422801e9d865eb4d81bcec15d414522db6de0a7a0eb22bcde45a7d3f"
+    url = "https://github.com/benlorenz/ppl_jll.jl/releases/download/ppl-v1.2.0+0/ppl.v1.2.0.aarch64-linux-gnu-cxx11.tar.gz"
+[[ppl]]
+arch = "armv7l"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "b08f158a881fa3d56559d6a271eaaf676ba1d555"
+libc = "glibc"
+os = "linux"
+
+    [[ppl.download]]
+    sha256 = "d23f09660fd3cbb07c4791c9bd82ed3e02ef03b90979ccd0cac902a5b209f882"
+    url = "https://github.com/benlorenz/ppl_jll.jl/releases/download/ppl-v1.2.0+0/ppl.v1.2.0.arm-linux-gnueabihf-cxx11.tar.gz"
+[[ppl]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "48f5b96673316c0c374af73194a4849f6fb2422b"
+libc = "glibc"
+os = "linux"
+
+    [[ppl.download]]
+    sha256 = "b9b6d103e4239eb92c5a2a317b4d8ce5f5c58673c41b094aae6f1bf72d78ff95"
+    url = "https://github.com/benlorenz/ppl_jll.jl/releases/download/ppl-v1.2.0+0/ppl.v1.2.0.powerpc64le-linux-gnu-cxx03.tar.gz"
+[[ppl]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "1866a8a031ba1d2d3b8e4ee77ccb3dcb66205a4c"
+libc = "musl"
+os = "linux"
+
+    [[ppl.download]]
+    sha256 = "5fde02eb646727a7bc6ea1a727bf034618fc3ae1f7759d96a57334901b0c4b68"
+    url = "https://github.com/benlorenz/ppl_jll.jl/releases/download/ppl-v1.2.0+0/ppl.v1.2.0.aarch64-linux-musl-cxx03.tar.gz"
+[[ppl]]
+arch = "armv7l"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "feb877229fa8589e411513d1b39ca3413398e428"
+libc = "musl"
+os = "linux"
+
+    [[ppl.download]]
+    sha256 = "dc358f229ab8760f7503265a213d56b902e52d349df2d98faae9515ee8fa19d9"
+    url = "https://github.com/benlorenz/ppl_jll.jl/releases/download/ppl-v1.2.0+0/ppl.v1.2.0.arm-linux-musleabihf-cxx11.tar.gz"
+[[ppl]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "7deb1f2831b4dbf008f8f7690e04dd4683e3f96d"
+os = "macos"
+
+    [[ppl.download]]
+    sha256 = "a8502e50283df57fade40e3ac7ebbd366795b7f1647f7bc1a0d11071c01e4cc4"
+    url = "https://github.com/benlorenz/ppl_jll.jl/releases/download/ppl-v1.2.0+0/ppl.v1.2.0.x86_64-apple-darwin14-cxx11.tar.gz"
+[[ppl]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "952471c5abea9a9538409c64ce1cebffce2e88b6"
+libc = "glibc"
+os = "linux"
+
+    [[ppl.download]]
+    sha256 = "7da5950c4f0ea7382c68921dcceec30f73e387f701cca7c08960b848e0be93a1"
+    url = "https://github.com/benlorenz/ppl_jll.jl/releases/download/ppl-v1.2.0+0/ppl.v1.2.0.aarch64-linux-gnu-cxx03.tar.gz"
+[[ppl]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "8b08b0bc1d064694f035d7d0df8c35c753e482b2"
+os = "windows"
+
+    [[ppl.download]]
+    sha256 = "caf015fa6f6228aa690e2c73d2853bada2c3f051fa4dea4c62b6040ad9140f6c"
+    url = "https://github.com/benlorenz/ppl_jll.jl/releases/download/ppl-v1.2.0+0/ppl.v1.2.0.x86_64-w64-mingw32-cxx03.tar.gz"
+[[ppl]]
+arch = "armv7l"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "fa1970f6d8e49671ad8b07d564f4fcdfbaec4481"
+libc = "glibc"
+os = "linux"
+
+    [[ppl.download]]
+    sha256 = "37854441dc57a135a0f66e39b789354689c2b039ed82aac6fd944133a5e0317f"
+    url = "https://github.com/benlorenz/ppl_jll.jl/releases/download/ppl-v1.2.0+0/ppl.v1.2.0.arm-linux-gnueabihf-cxx03.tar.gz"
+[[ppl]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "a32246330186f2750d100bca650ff27c77d2d77d"
+libc = "glibc"
+os = "linux"
+
+    [[ppl.download]]
+    sha256 = "8e4e5ee7eb8b65d13a3a977b60bb9d5bba03f0948c611d5f3aa6889244b0a799"
+    url = "https://github.com/benlorenz/ppl_jll.jl/releases/download/ppl-v1.2.0+0/ppl.v1.2.0.i686-linux-gnu-cxx11.tar.gz"
+[[ppl]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "013df23b1270e72a0b42a433faa20a7e1b96e396"
+libc = "glibc"
+os = "linux"
+
+    [[ppl.download]]
+    sha256 = "d9ebd4d02d57db52e769a26f32ef8f6c533eb5e80696995a21fc45268408b287"
+    url = "https://github.com/benlorenz/ppl_jll.jl/releases/download/ppl-v1.2.0+0/ppl.v1.2.0.i686-linux-gnu-cxx03.tar.gz"
+[[ppl]]
+arch = "armv7l"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "8a681c525df5dda244470e1b9f6692152d15976e"
+libc = "musl"
+os = "linux"
+
+    [[ppl.download]]
+    sha256 = "bde4789ff9b8355ce203d4110c6f5b81ffaed6c58614937ca9dad74808425822"
+    url = "https://github.com/benlorenz/ppl_jll.jl/releases/download/ppl-v1.2.0+0/ppl.v1.2.0.arm-linux-musleabihf-cxx03.tar.gz"
+[[ppl]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "85283edcd05102693aea8dce244e7b566744b22a"
+libc = "musl"
+os = "linux"
+
+    [[ppl.download]]
+    sha256 = "670d05b46c4716db4b0716d20a023c5ab19eb33d1c4d12ce63abe40edc939be5"
+    url = "https://github.com/benlorenz/ppl_jll.jl/releases/download/ppl-v1.2.0+0/ppl.v1.2.0.aarch64-linux-musl-cxx11.tar.gz"
+[[ppl]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "2fea73f2816e1fe81aba254ae5edfdd1721c6bb1"
+os = "windows"
+
+    [[ppl.download]]
+    sha256 = "0becf1c0b1317cdb75ac5a03301f8127627c3be4edd80902acbf54bd193da62c"
+    url = "https://github.com/benlorenz/ppl_jll.jl/releases/download/ppl-v1.2.0+0/ppl.v1.2.0.i686-w64-mingw32-cxx11.tar.gz"
+[[ppl]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "9db34f0168a1413a4ef76f84a79db6e3c9acf998"
+os = "windows"
+
+    [[ppl.download]]
+    sha256 = "6dfbefecc1c24665b3b6161f525e7750caf46023761e6bf107b4823997547a75"
+    url = "https://github.com/benlorenz/ppl_jll.jl/releases/download/ppl-v1.2.0+0/ppl.v1.2.0.i686-w64-mingw32-cxx03.tar.gz"
+[[ppl]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "9530e544c2ebe5283ef4ab541c9669cbb434de31"
+os = "windows"
+
+    [[ppl.download]]
+    sha256 = "22fd16715382e69a018b6bc0072aafab0ee299f0724d5056cece3775d7011beb"
+    url = "https://github.com/benlorenz/ppl_jll.jl/releases/download/ppl-v1.2.0+0/ppl.v1.2.0.x86_64-w64-mingw32-cxx11.tar.gz"
+[[ppl]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "3a98924c025bffff207b347641aa4cbcf6893e1d"
+libc = "musl"
+os = "linux"
+
+    [[ppl.download]]
+    sha256 = "2b173b181f22b1017c650d57db00493a623f5635d7c40d8a91a22f0fb456e53f"
+    url = "https://github.com/benlorenz/ppl_jll.jl/releases/download/ppl-v1.2.0+0/ppl.v1.2.0.x86_64-linux-musl-cxx03.tar.gz"
+[[ppl]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "19b1dd70931a2d311065ea8702437ba178e767e5"
+os = "freebsd"
+
+    [[ppl.download]]
+    sha256 = "e84768cd5b4c8d5b91247446c78851e6989ff675c6b20dbeb0d7e400722bc885"
+    url = "https://github.com/benlorenz/ppl_jll.jl/releases/download/ppl-v1.2.0+0/ppl.v1.2.0.x86_64-unknown-freebsd11.1-cxx11.tar.gz"
